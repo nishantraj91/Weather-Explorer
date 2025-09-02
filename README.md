@@ -1,17 +1,9 @@
 # Weather-Explorer
 This Weather Explorer is a responsive web app that delivers real-time weather updates and a four-day forecast for any city. Built with HTML, CSS, and JavaScript, it integrates the OpenWeather API to fetch live data. Featuring dynamic backgrounds, smooth CSS animations, and an intuitive UI, it makes weather tracking engaging.
-# Weather Explorer
 
 A sleek and responsive weather web app that lets you search current weather and a four-day forecast by city name. Built using HTML, CSS, and JavaScript — powered by the OpenWeather API.
 
 ---
-
-##  Live Demo
-
-Visit the live version: *(link to GitHub Pages or hosted site, if available)*
-
----
-
 ##  Features
 
 - Search weather by city name
